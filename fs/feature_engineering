@@ -1,0 +1,13 @@
+how to choose and engineer most important features of the algorithm 
+
+
+feature engineering is the process by which we combine our features or create a new feature entirely to better create the model 
+
+for eg: we have x1 which is the frontage of a land and x2 which is the breadth of the land, by using these 2 features we can create a model ie 
+
+price= w1x1+w2x2+base price
+
+the neat part about feature engineering is we can combine the frontage and breadth part into a single area which can be included inside the model to create a more better model 
+
+price=w1x1+w2x2+w3x3+ base price 
+
